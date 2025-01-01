@@ -9,13 +9,13 @@ Introduction to Artifical Intelligence(CS440): https://xintongemilywang.github.i
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/username1">
+      <a href="https://github.com/scarletrat">
         <img src="https://avatars.githubusercontent.com/u/ID1" width="100px;" alt="Username1"/><br />
         <sub><b>Username1</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/username2">
+      <a href="https://github.com/CloudyOutside">
         <img src="https://avatars.githubusercontent.com/u/ID2" width="100px;" alt="Username2"/><br />
         <sub><b>Username2</b></sub>
       </a>
