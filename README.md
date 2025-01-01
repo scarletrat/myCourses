@@ -5,7 +5,7 @@ Introduction to Artifical Intelligence(CS440): https://xintongemilywang.github.i
 
 
 Software Methodology(CS213): Worked together with <a href="https://github.com/scarletrat"> @CloudyOutside</a> <br/>
-&ensp; Project 1&2(Clinic Project): https://drive.google.com/file/d/1apouvBZ2b1mvGOR6oiEHSbFa8uEmHEQ2/view https://drive.google.com/file/d/1yq51HquCGO0N1EgVQxIo-WrDjT6EQU0z/view <br/>
+&ensp; Project 1&2(Clinic Project): https://drive.google.com/file/d/1apouvBZ2b1mvGOR6oiEHSbFa8uEmHEQ2/view &nbsp; https://drive.google.com/file/d/1yq51HquCGO0N1EgVQxIo-WrDjT6EQU0z/view <br/>
 &ensp; Project 3(Clinic Manager): GUI and UML build on project 2; https://drive.google.com/file/d/1LYbzVvS2vZXH1pSRUDKcPiTBqAqItf6A/view <br/>
 &ensp; Project 4(RUPizzeria): https://drive.google.com/file/d/1Tadd5JhRK4brmBOf1xg_CS1T53sB9Ozl/view <br/>
 &ensp; Project 5(AndriodPizzeria): https://drive.google.com/file/d/1xOXyxOflTfWufr9mjuyCn4LOvBAgo8qD/view <br/>
