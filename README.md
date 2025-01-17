@@ -1,6 +1,7 @@
 # myCourses
-This repo is created to record the coding assignments I did during my classes at Rutgers.
+This repo is created to record the coding assignments I did during my classes at Rutgers starting fall 2024.
 
+# Fall 2024
 Introduction to Artifical Intelligence(CS440): https://xintongemilywang.github.io/projects/
 
 
