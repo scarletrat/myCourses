@@ -18,4 +18,14 @@ Software Methodology(CS213): Worked together with [@CloudyOutside](https://www.g
 # Spring 2025
 Embedded Systems: Programming ZYBO board using VHDL on Xilinx Vivado.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
