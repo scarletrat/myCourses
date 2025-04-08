@@ -13,5 +13,5 @@ Software Methodology(CS213): Worked together with [@CloudyOutside](https://www.g
 * Project 5([AndriodPizzeria](https://github.com/scarletrat/AndriodPizzeria)): [Project5 Requirments](https://drive.google.com/file/d/1xOXyxOflTfWufr9mjuyCn4LOvBAgo8qD/view) 
 
 # Spring 2025
-Embedded Systems: Programming ZYBO board using VHDL on Xilinx Vivado.
+Embedded Systems: Programming ZYBO Z7 FPGA board using VHDL on Xilinx Vivado. Used a UART Pmod to send characters from the board to the terminal. Display image pixels from an image stored in the board to the desktop using a vga connector.
 
